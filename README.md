@@ -1,4 +1,6 @@
-# Working with databases.
+# Working with Databases
+
+This section is dedicated to practical work with a relational database using MySQL and a non-relational database using MongoDB:
 
 [Working with SELECT in DBeaver](https://docs.google.com/spreadsheets/d/1XN2J7bsGusc0U2BjmRbOLDSCUCSdL5lm-PFEh7ldR8Q/edit?usp=sharing)
 
